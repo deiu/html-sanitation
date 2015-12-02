@@ -1,3 +1,5 @@
 # html-sanitation
 
-<script>alert("no sanitation!");</script>
+&lt;keygen&gt;
+
+&lt;script&gt;alert("no sanitation!");&lt;/script&gt;
